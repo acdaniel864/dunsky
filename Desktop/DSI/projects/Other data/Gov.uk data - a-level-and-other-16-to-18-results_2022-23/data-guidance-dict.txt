@@ -1,0 +1,69 @@
+A level and other 16 to 18 results
+2022/23 Academic year
+
+Description
+
+This document describes the data included in the ‘A level and other 16 to 18 results: 2022/23’ National Statistics release's underlying data files.  The statistical publication complements the 16-18 school and college performance tables. This data is released under the terms of the Open Government License (http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and is intended to meet at least 3 stars for Open Data (https://www.gov.uk/government/publications/2010-to-2015-government-policy-government-transparency-and-accountability/2010-to-2015-government-policy-government-transparency-and-accountability#appendix-3-releasing-data-in-open-and-anonymised-formats).
+
+The publication methodology, available on the publication report, should be referenced alongside this data. It provides information on the data sources, their coverage and quality as well as explaining methodology used in producing the data.
+
+Coverage
+
+This release provides information on A level and other 16-18 results in:
+
+- Students who have completed their 16-18 phase of education
+- Students who have entered an approved qualification in the reporting year
+
+Approved qualifications are those that are eligible for reporting in the 16-18 school and college performance tables, listed in the 16 to 18 qualifications, discount codes and point scores (https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores).
+
+The information is based on data collected via awarding organisations, the school census, and the Individualised Learner Record.
+
+File formats and conventions
+
+Rounding
+
+This dataset has not had rounding applied.
+
+Suppression is applied to protect the disclosure of personal information or characteristics.
+
+Conventions
+
+The following convention is used throughout the underlying data.
+
+‘z’ Not applicable.
+
+Data files
+
+Student counts and Results - A level by region and subject (end of 16-18 study)
+
+Filename: alevel_counts_results_by_region_1618study_201923.csv
+Geographic levels: Local authority; Regional
+Time period: 2018/19 to 2022/23
+Content summary: A level student counts by grade achieved, subject and region or local authority.
+
+Includes students triggered for inclusion in performance tables who completed A levels during 16-18 study, after discounting of exams.
+
+Variable names and descriptions for this file are provided below:
+
+Variable name                |  Variable description
+---------------------------  |  ------------------------------
+a_grade_achieved             |  Number at grade A.
+astar_grade_achieved         |  Number at grade A*.
+b_grade_achieved             |  Number at grade B.
+c_grade_achieved             |  Number at grade C.
+d_grade_achieved             |  Number at grade D.
+e_grade_achieved             |  Number at grade E.
+perc_astar_a_grade_achieved  |  Percent achieving grade A* - A
+perc_astar_b_grade_achieved  |  Percent achieving grade A* - B
+perc_astar_c_grade_achieved  |  Percent achieving grade A* - C
+perc_astar_d_grade_achieved  |  Percent achieving grade A* - D
+perc_astar_e_grade_achieved  |  Percent achieving grade A* - E
+perc_astar_grade_achieved    |  Percent achieving grade A*
+school_type                  |  Institution
+subject_name                 |  Subject
+total_students               |  Total number of students
+u_grade_achieved             |  Number at grade U.
+
+Footnotes:
+
+1. Includes students triggered for inclusion in performance tables who completed A levels during 16-18 study, after discounting of exams. Includes pending awards.

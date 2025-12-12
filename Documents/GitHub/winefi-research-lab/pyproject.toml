@@ -1,0 +1,31 @@
+[project]
+name = "winefi-research-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "sqlalchemy",
+    "python-dotenv",
+    "psycopg2-binary>=2.9.11",
+    "datetime>=5.5",
+    "matplotlib>=3.10.7",
+    "networkx>=3.5",
+    "requests>=2.32.5",
+    "scipy>=1.16.3",
+    "statsmodels>=0.14.5",
+    "scikit-learn>=1.7.2",
+    "pandas-datareader>=0.10.0",
+    "yfinance>=0.2.66"
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "nbformat>=5.10.4",
+    "plotly>=6.4.0",
+    "ruff>=0.14.4",
+    "seaborn>=0.13.2",
+]
